@@ -120,3 +120,24 @@ body{
   }
 
 }
+
+@media screen and (max-width: 880px) and (min-width:381px){
+  
+  .pokedex-top{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .login-btn{
+    height: 2.25rem;
+  }
+
+  .all-btns{
+    font-size: 0.7rem;
+  }
+
+  .pokedex-full-t{
+    font-size: 0.7rem;
+  }
+
+}
